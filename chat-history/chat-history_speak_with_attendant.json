@@ -1,0 +1,22 @@
+{
+  "session_id": "session_1740757758362",
+  "messages": [
+    {
+      "from": "user",
+      "message": "Seguindo o atendimento. Qual é o próximo passo?"
+    },
+    {
+      "from": "ia",
+      "message": "Você está em uma fila de espera para falar com um atendente humano. O tempo de espera estimado é de cerca de 5 a 10 minutos, dependendo do volume de atendimentos. Assim que um atendente estiver disponível, ele irá ajudá-lo com sua solicitação. Enquanto isso, se houver algo específico que você queira informar ou perguntas que possa ter, estou aqui para ajudar da melhor forma possível."
+    },
+    {
+      "from": "user",
+      "message": "ok"
+    },
+    {
+      "from": "ia",
+      "message": "Agradeço pela compreensão. Se houver algo mais que você queira discutir enquanto aguarda, como dúvidas ou informações adicionais sobre os serviços, sinta-se à vontade para perguntar. Caso contrário, você será atendido em breve."
+    }
+  ],
+  "actual_agent": "speak_with_attendant"
+}

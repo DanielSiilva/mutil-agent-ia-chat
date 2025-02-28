@@ -1,0 +1,14 @@
+{
+  "session_id": "session_1740757752589",
+  "messages": [
+    {
+      "from": "user",
+      "message": "oi"
+    },
+    {
+      "from": "ia",
+      "message": "Oi! Como posso te ajudar hoje?"
+    }
+  ],
+  "actual_agent": "welcome"
+}
