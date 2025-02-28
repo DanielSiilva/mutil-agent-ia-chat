@@ -78,7 +78,7 @@ async function askChatGPT(agentName, userMessage, isFirstInteraction = false) {
 
 // Exibir menu de opções
 function showMenu() {
-  console.log("\n🤖 Aqui estão algumas opções para te ajudar:");
+  //console.log("\n🤖 Aqui estão algumas opções para te ajudar:");
   Object.keys(menuOptions).forEach((key) => {
     console.log(`${key}. ${menuOptions[key]}`);
   });
